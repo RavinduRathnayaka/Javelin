@@ -96,3 +96,24 @@ load msgrpc ServerHost=192.168.220.144 ServerPort=55553 User=admin Pass=admin
 python3 ./javelin.py <source_ip> -m <mode>
 ```
 >	ex: python3 ./javelin.py 192.168.1.3 -m test
+
+
+
+# Acknowledgement
+I wish to express my deepest gratitude to my project supervisor, Mr. Chamindra 
+Attanayake, for their invaluable guidance, patience, and unwavering support 
+throughout this project. Their depth of knowledge and practical insights were 
+instrumental in the successful completion of this work.   
+    
+I am also thankful to all the faculty members in the faculty of computing at NSBM 
+green university and the University of Plymouth for their help and support. Their 
+teachings and encouragement provided the foundation for this project.
+I would like to thank the Open Worldwide Application Security Project (OWASP), the 
+services of which were pivotal in gathering data and conducting experiments that 
+were crucial to this project.   
+    
+I would also like to acknowledge my peers for their camaraderie, constructive 
+criticism, and intellectual discussions which helped shape this project.
+Lastly, my heartfelt appreciation goes to my family and friends, whose constant 
+encouragement and moral support were invaluable. Their belief in my capabilities 
+inspired me to push my boundaries and strive for excellence.
