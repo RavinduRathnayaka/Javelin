@@ -33,16 +33,38 @@ sudo su
 ### install python libraries
 ```
 pip install beautifulsoup4
+```
+```
 pip install docopt
+```
+```
 pip install jinja2
+```
+```
 pip install Keras
+```
+```
 pip install matplotlib
+```
+```
 pip install msgpack-python
+```
+```
 pip install numpy
+```
+```
 pip install pandas
+```
+```
 pip install Scrapy
+```
+```
 pip install tensorflow
+```
+```
 pip install urllib3
+```
+```
 pip install protobuf
 ```
 ## step 3 : 
