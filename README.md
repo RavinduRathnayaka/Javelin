@@ -1,3 +1,24 @@
+# Javelin: Automated penetration testing tool
+
+In the ever-changing landscape of cyberspace, securing digital assets has become a 
+top priority for both businesses and individuals. Cybersecurity experts must stay one 
+step ahead of cyber criminals as they employ increasingly sophisticated techniques to 
+exploit vulnerabilities.     
+Enter the world of automated penetration testing, a novel approach that combines the 
+capabilities of cutting-edge artificial intelligence with the knowledge of cybersecurity 
+experts. In this new era of cyber defence, these digital fortresses not only fortify 
+themselves but also dynamically adapt to the onslaught of threats, ensuring robust 
+testing and vulnerability assessment generating. Here it is discussed how manual 
+penetration testing can be improved using automation to save time and effort while 
+maximizing the quality of the vulnerability assessment. The output of the automation 
+will take time, and to improve the accuracy of the result without human errors, 
+automation will take a lot of time because of the large variety of vulnerability 
+assessment techniques. To improve the efficiency of automation, this is where artificial 
+intelligence comes in and makes automation more effective.    
+     
+**KEYWORDS**: _cybersecurity, exploit, vulnerabilities, automated penetration testing, 
+automation, artificial intelligence_
+
 # User Guide
 ## step 0 : 
 ### open a terminal as sudo and enter following commands
